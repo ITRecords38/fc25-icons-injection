@@ -1,3 +1,5 @@
+![banner](https://raw.githubusercontent.com/ITRecords38/fc25-icons-injection/main/banner.png)
+
 # 🏆 FC 25 - ICÔNES Injection Pack (Live Editor) | Dual Language (FR/EN)
 
 > 🔗 Basé sur le travail original de [xAranaktu - FC 25 Live Editor](https://github.com/xAranaktu/FC-25-Live-Editor)
