@@ -1,5 +1,7 @@
 # 🏆 FC 25 - ICÔNES Injection Pack (Live Editor) | Dual Language (FR/EN)
 
+> 🔗 Basé sur le travail original de [xAranaktu - FC 25 Live Editor](https://github.com/xAranaktu/FC-25-Live-Editor)
+
 ![FIFA FC25 ICONS](https://img.shields.io/badge/LiveEditor-Compatible-green?style=flat-square)  ![Status](https://img.shields.io/badge/Ready_For_Use-FC25-blue?style=flat-square) [![Latest Release](https://img.shields.io/github/v/release/ITRecords38/fc25-icons-injection?label=Latest%20Release)](https://github.com/ITRecords38/fc25-icons-injection/releases/latest)
 
 > Créez / Inject automatically all ICON players into FC25 using **Live Editor**.
@@ -78,9 +80,10 @@ Feel free to open issues or PRs.
 
 ## 🎨 Aperçu (optionnel) | Preview (optional)
 
-![preview](https://user-images.githubusercontent.com/xxx/preview.png)
+![preview](https://imgur.com/k5SRKnQ.png)
 
-> Ajoutez vos captures d'écran personnalisées ici.
+> Capture d'écran personnalisée d'aperçu ICÔNES FC25.
+> Add your custom screenshots here. d'écran personnalisées ici.
 > Add your custom screenshots here.
 
 ---
