@@ -71,8 +71,8 @@ scripts/
 
 ## ✍️ Auteur | Author
 
-Projet construit par **Fabrice** 💻
-Built by **Fabrice** 💻
+Projet construit par **ITRecords38** 💻
+Built by **ITRecords38** 💻
 Pour toute suggestion, ouvrez une issue ou PR.
 Feel free to open issues or PRs.
 
