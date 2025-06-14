@@ -88,4 +88,3 @@ Feel free to open issues or PRs.
 Ce pack est fourni à des fins non commerciales. Tous les droits relatifs à FC25 appartiennent à EA SPORTS.  
 This pack is for non-commercial use only. All rights to FC25 belong to EA SPORTS.
 # fc25-icons-injection
-# fc25-icons-injection
