@@ -37,6 +37,9 @@ scripts/
       ├─ FUT_Birthday/
       └─ ...
 ```
+Chaque joueur ICÔNE possède son propre fichier .lua dans des sous-dossiers classés par version (Base, TOTY, FUT Birthday, etc.), permettant une injection manuelle si nécessaire, ou bien une injection automatisée via main.lua.
+
+Each ICON player has their own .lua file organized in subfolders by version (Base, TOTY, FUT Birthday, etc.), allowing for manual injection if needed, or automated injection via main.lua.
 
 ---
 
