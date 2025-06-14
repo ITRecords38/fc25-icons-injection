@@ -1,6 +1,6 @@
 # 🏆 FC 25 - ICÔNES Injection Pack (Live Editor) | Dual Language (FR/EN)
 
-![FIFA FC25 ICONS](https://img.shields.io/badge/LiveEditor-Compatible-green?style=flat-square)  ![Status](https://img.shields.io/badge/Ready_For_Use-FC25-blue?style=flat-square)
+![FIFA FC25 ICONS](https://img.shields.io/badge/LiveEditor-Compatible-green?style=flat-square)  ![Status](https://img.shields.io/badge/Ready_For_Use-FC25-blue?style=flat-square) [![Latest Release](https://img.shields.io/github/v/release/ITRecords38/fc25-icons-injection?label=Latest%20Release)](https://github.com/ITRecords38/fc25-icons-injection/releases/latest)
 
 > Créez / Inject automatically all ICON players into FC25 using **Live Editor**.
 
@@ -8,15 +8,15 @@
 
 ## ✨ Fonctionnalités | Features
 
-- Injection automatique de tous les joueurs ICÔNES (Base, TOTY, FUT Birthday, etc.)  
+* Injection automatique de tous les joueurs ICÔNES (Base, TOTY, FUT Birthday, etc.)
   Auto injection of all ICON players (Base, TOTY, FUT Birthday, etc.)
-- Scripts classés par **version/révision**  
+* Scripts classés par **version/révision**
   Scripts sorted by **version/revision**
-- Statistiques et styles de jeu complètement renseignés  
+* Statistiques et styles de jeu complètement renseignés
   Full stats and playstyles populated
-- Test préalable de la présence avec `PlayerExists()`  
+* Test préalable de la présence avec `PlayerExists()`
   Checks player existence using `PlayerExists()`
-- Aucun remplacement automatique, pas de conflit  
+* Aucun remplacement automatique, pas de conflit
   No overwriting, no conflict with existing players
 
 ---
@@ -39,37 +39,39 @@ scripts/
 
 ## 📆 Installation
 
-1. Extraire ce dépôt dans le dossier :  
+1. Extraire ce dépôt dans le dossier :
    Extract this repo into:
+
    ```
    FIFA Live Editor/scripts/icons/
    ```
 
-2. Lancer Live Editor et exécuter :  
+2. Lancer Live Editor et exécuter :
    Launch Live Editor and run:
+
    ```lua
    dofile("scripts/icons/main.lua")
    ```
 
-3. Les joueurs ICÔNES seront ajoutés automatiquement.  
+3. Les joueurs ICÔNES seront ajoutés automatiquement.
    All ICON players will be injected with logs confirming status.
 
 ---
 
 ## 🌐 Sources des données | Data Sources
 
-- Données issues des fichiers extraits de FC25 (squadfiles)  
+* Données issues des fichiers extraits de FC25 (squadfiles)
   Data from FC25 squadfiles
-- Nationalités, stats et styles via `players.txt` enrichi  
+* Nationalités, stats et styles via `players.txt` enrichi
   Nationality, stats, styles via enriched `players.txt`
 
 ---
 
 ## ✍️ Auteur | Author
 
-Projet construit par **Fabrice** 💻  
-Built by **Fabrice** 💻  
-Pour toute suggestion, ouvrez une issue ou PR.  
+Projet construit par **Fabrice** 💻
+Built by **Fabrice** 💻
+Pour toute suggestion, ouvrez une issue ou PR.
 Feel free to open issues or PRs.
 
 ---
@@ -78,13 +80,12 @@ Feel free to open issues or PRs.
 
 ![preview](https://user-images.githubusercontent.com/xxx/preview.png)
 
-> Ajoutez vos captures d'écran personnalisées ici.  
+> Ajoutez vos captures d'écran personnalisées ici.
 > Add your custom screenshots here.
 
 ---
 
 ## 🔗 Licence | License
 
-Ce pack est fourni à des fins non commerciales. Tous les droits relatifs à FC25 appartiennent à EA SPORTS.  
+Ce pack est fourni à des fins non commerciales. Tous les droits relatifs à FC25 appartiennent à EA SPORTS.
 This pack is for non-commercial use only. All rights to FC25 belong to EA SPORTS.
-# fc25-icons-injection
