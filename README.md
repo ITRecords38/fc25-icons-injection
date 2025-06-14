@@ -82,10 +82,6 @@ Feel free to open issues or PRs.
 
 ![preview](https://imgur.com/k5SRKnQ.png)
 
-> Capture d'écran personnalisée d'aperçu ICÔNES FC25.
-> Add your custom screenshots here. d'écran personnalisées ici.
-> Add your custom screenshots here.
-
 ---
 
 ## 🔗 Licence | License
